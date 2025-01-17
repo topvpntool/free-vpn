@@ -350,4 +350,5 @@ iOS设备的用户可以购买一个美区Apple ID来下载免费VPN产品。中
 -   [中国用户如何选择VPN？最新免费VPN推荐](https://github.com/topvpntool/free-vpn)：最新免费VPN推荐 VPN软件已成为许多人日常生活中不可或缺的一部分 尤其对于中国大陆的用户来说，VPN翻墙软件的使用频率更是非常高
 -   [翻墙科学上网详解，利用VPN翻墙软件突破网络限制](https://github.com/topvpntool/gfw)：科学上网，指的是使用特定的软件或工具，以绕过防火长城的方式，从而可以访问被屏蔽的海外网站和资源 在中国，这种方式也被称为“翻墙”，是为了将本地IP地址伪装成外国IP地址，以便访问被屏蔽的资源 而墙在这里指的是一个特殊的名词，即中国的“防火长城”——Great Firewall
 -   [精选iOS系统苹果VPN推荐，iPhone/iPad手机平板适用](https://github.com/topvpntool/ios-vpn)：在中国，由于GFW对互联网的限制和封锁日益加强，越来越多人开始了解和学习翻墙 虽然在PC或Mac上使用VPN翻墙相对轻松，但在iOS设备（如苹果iPhone和iPad）上实现翻墙则更为困难 iOS设备是一个封闭的系统，而且在中国地区的App Store中已经基本找不到任何翻墙类的APP了
+-   [Mac用户必备，VPN翻墙教程与推荐](https://github.com/topvpntool/mac-vpn)：使用VPN已成为许多人上网的首选方式，特别是对于Mac用户而言 由于某些地区的网络限制，访问某些网站和服务变得困难，因此越来越多的人开始寻找“Mac VPN”的解决方案，以实现翻墙的需求 当你在Mac上使用VPN时，你可以绕过地理限制，访问那些在你所在地区被封锁的网站，如某些社交媒体平台、视频流媒体服务以及新闻网站等
 -   [推荐几款适用于Windows电脑的VPN，在PC端快速实现翻墙](https://github.com/topvpntool/pc-vpn)：电脑已经成为我们生活、学习和工作中最常用的工具之一 然而，在中国想要自由访问一些国外著名网站如Google、Facebook、Youtube等，需要实现电脑翻墙，因为这些网站都受到了地域限制 电脑翻墙最简单、最有效的方法就是选择一款安全且好用的电脑版VPN
