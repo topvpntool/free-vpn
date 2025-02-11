@@ -212,7 +212,7 @@ PrivadoVPN是一个功能强大的VPN软件，每月提供10GB的流量限制。
 
 ### 3.ProtonVPN
 
-![ProtonVPN免费](https://overwallvpn.com/wp-content/uploads/2025/02/privadovpn-homepage.jpg)
+![ProtonVPN免费](https://overwallvpn.com/wp-content/uploads/2025/02/protonvpn-homepage.jpg)
 
 ProtonVPN是一款可靠的VPN软件，不限制流量和带宽，能够观看Netflix和YouTube等流媒体服务，其速度也非常适合中国用户。虽然在高峰时期可能会降速，但是它比许多其它免费VPN软件的速度还是要快的，这也是它在免费VPN市场中非常受欢迎的原因之一。此外，ProtonVPN使用军事级加密协议，不记录个人信息，包括日志和IP地址的存储，保护你的网络隐私和安全。
 
