@@ -370,6 +370,7 @@ iOS设备的用户可以购买一个美区Apple ID来下载免费VPN产品。中
 -   [推荐几款适用于Windows电脑的VPN，在PC端快速实现翻墙](https://github.com/topvpntool/pc-vpn)：电脑已经成为我们生活、学习和工作中最常用的工具之一 然而，在中国想要自由访问一些国外著名网站如Google、Facebook、Youtube等，需要实现电脑翻墙，因为这些网站都受到了地域限制
 -   [如何选择支持VPN的路由器，实现家中设备全局翻墙](https://github.com/topvpntool/router-vpn)：使用路由器VPN的最大优势在于便利性 通过在路由器上设置VPN，网络中的所有设备都可以直接通过VPN连接上网，而不需要对每台设备单独配置
 -   [StrongVPN在国内能用吗？实测结果揭晓StrongVPN怎么样！](https://github.com/topvpntool/strongvpn-review)：实测结果揭晓StrongVPN怎么样 在众多的翻墙工具中，StrongVPN凭借其安全、稳定的特性吸引了不少用户的关注
+-   [Telegram新手入门教程，如何注册账号并开始使用？](https://github.com/topvpntool/telegram-tutorial)：Telegram是一款跨平台的即时通讯应用，支持文本消息、语音和视频通话、文件发送等功能 用户不仅可以通过手机应用使用Telegram，还可以在电脑上访问，满足不同场景下的通讯需求
 -   [代理与机场翻墙节点推荐，提升网络速度的必备工具](https://github.com/topvpntool/tizi-vpn)：由于中国大陆对互联网内容实施了严格的审查与限制，用户无法自由访问一些社交媒体、新闻网站以及视频平台 通过VPN翻墙，用户可以轻松获取全球信息，享受更为开放的网络环境
 -   [精选VPN黑五折扣优惠码合集，抓住年度最大优惠！](https://github.com/topvpntool/vpn-coupon)：NordVPN几乎全年都有各种促销活动，特别是在以下时间段：    NordVPN的官网经常会发布最新优惠活动，特别是首页顶部的横幅会有折扣提示
 -   [全球VPN节点推荐，如何选择最合适的VPN节点翻墙](https://github.com/topvpntool/vpn-server)：无论是工作、娱乐，还是和朋友、家人保持联系，网络已经成了我们日常生活中必不可少的一部分 然而，随着越来越多的在线平台和服务根据地理位置限制内容，许多人发现自己在访问全球数字资源时常常会被“拦路虎”挡住
