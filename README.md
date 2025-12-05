@@ -57,9 +57,23 @@
 
 由于我平时经常翻墙，对VPN软件要求比较高，平时基本都用的国外付费VPN，很少使用免费VPN，以下是经过我测试在中国稳定可用的VPN，并且提供30天免费试用的机会：
 
-> - 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) – 提供30天免费试用期，在中国翻墙表现良好，具有快速的连接速度和不限流量的服务。
-> - 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 可以免费使用30天，允许您在无限制的设备上同时登陆，并提供私密浏览功能和特殊翻墙模式。
-> - 3.[PureVPN](https://overwallvpn.com/go/purevpn) – 在中国好用的VPN，免费提供31天的试用期。它具有出色的流媒体解锁功能和支持P2P共享的能力，并提供专用IP地址。
+### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)
+
+![StrongVPN](https://overwallvpn.com/wp-content/uploads/2024/11/strongvpn-logo.png)
+
+提供30天免费试用期，在中国翻墙表现良好，具有快速的连接速度和不限流量的服务。
+
+### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn)
+
+![ExpressVPN](https://overwallvpn.com/wp-content/uploads/2021/12/expressvpn-logo.png)
+
+可以免费使用30天，允许您在无限制的设备上同时登陆，并提供私密浏览功能和特殊翻墙模式。
+
+### 3.[PureVPN](https://overwallvpn.com/go/purevpn)
+
+![PureVPN](https://overwallvpn.com/wp-content/uploads/2022/11/purevpn-logo-black.png)
+
+在中国好用的VPN，免费提供31天的试用期。它具有出色的流媒体解锁功能和支持P2P共享的能力，并提供专用IP地址。
 
 ### 二、真正免费VPN推荐（100%免费）
 
