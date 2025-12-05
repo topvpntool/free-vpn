@@ -57,19 +57,19 @@
 
 由于我平时经常翻墙，对VPN软件要求比较高，平时基本都用的国外付费VPN，很少使用免费VPN，以下是经过我测试在中国稳定可用的VPN，并且提供30天免费试用的机会：
 
-### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)
+### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 速度延迟表现最佳，且支持支付宝
 
 ![StrongVPN](https://overwallvpn.com/wp-content/uploads/2024/11/strongvpn-logo.png)
 
 提供30天免费试用期，在中国翻墙表现良好，具有快速的连接速度和不限流量的服务。
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn)
+### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) - 老牌翻墙VPN，使用体验最好
 
 ![ExpressVPN](https://overwallvpn.com/wp-content/uploads/2021/12/expressvpn-logo.png)
 
 可以免费使用30天，允许您在无限制的设备上同时登陆，并提供私密浏览功能和特殊翻墙模式。
 
-### 3.[PureVPN](https://overwallvpn.com/go/purevpn)
+### 3.[PureVPN](https://overwallvpn.com/go/purevpn) - 价格便宜，适合低预算
 
 ![PureVPN](https://overwallvpn.com/wp-content/uploads/2022/11/purevpn-logo-black.png)
 
