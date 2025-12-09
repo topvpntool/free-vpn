@@ -65,9 +65,9 @@
 
 ---
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) - 老牌翻墙VPN，使用体验最好
+### 2.[NordVPN](https://overwallvpn.com/go/nordvpn) - 老牌翻墙VPN，使用体验最好
 
-![ExpressVPN](https://overwallvpn.com/wp-content/uploads/2021/12/expressvpn-logo.png)
+![NordVPN](https://overwallvpn.com/wp-content/uploads/2021/12/nordvpn-logo.png)
 
 可以免费使用30天，允许您在无限制的设备上同时登陆，并提供私密浏览功能和特殊翻墙模式。
 
@@ -225,19 +225,19 @@ StrongVPN 的容错能力很强，稍微调一下基本能用。
 
 ---
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 免费使用30天，唯一无限设备翻墙VPN
+### 2.[NordVPN](https://overwallvpn.com/go/expressvpn) – 免费使用30天，唯一无限设备翻墙VPN
 
-ExpressVPN是一个相对新的VPN软件，但已成为许多人选择的免费VPN加速器之一。其主要的三个优势包括了Camouflage/NoBorders的使用、在隐私安全保护、解锁地域限制、兼容性和易用性方面处于行业领先水平，以及不限制设备数量。
+NordVPN是一个相对新的VPN软件，但已成为许多人选择的免费VPN加速器之一。其主要的三个优势包括了Camouflage/NoBorders的使用、在隐私安全保护、解锁地域限制、兼容性和易用性方面处于行业领先水平，以及不限制设备数量。
 
-![ExpressVPN免费试用](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-homepage.jpg)
+![NordVPN免费试用](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-free-vpn.jpg)
 
-ExpressVPN的Camouflage/NoBorders功能在翻墙领域表现突出，能够在很大程度上帮助用户访问需要科学上网的网站。其采用银行级别的AES-256位高级加密算法并采取严格的零日志策略来保护用户的隐私安全。同时，其APP客户端还内置了很多针对用户需求的实用的高级功能，如过滤广告和钓鱼网站的CleanWeb、保护用户真实IP地址和上网数据的Kill Switch以及类似于拆分隧道功能的Bypasser等，能够让用户在互联网上始终保持匿名状态。
+NordVPN的Camouflage/NoBorders功能在翻墙领域表现突出，能够在很大程度上帮助用户访问需要科学上网的网站。其采用银行级别的AES-256位高级加密算法并采取严格的零日志策略来保护用户的隐私安全。同时，其APP客户端还内置了很多针对用户需求的实用的高级功能，如过滤广告和钓鱼网站的CleanWeb、保护用户真实IP地址和上网数据的Kill Switch以及类似于拆分隧道功能的Bypasser等，能够让用户在互联网上始终保持匿名状态。
 
-ExpressVPN的服务器数量超过3,200台，覆盖65个国家和地区，使其可以轻松解锁国外的Netflix、Disney+、BBC iPlayer、Hulu等流媒体，且在观看高清视频的过程中流畅度较高。此外，其也可以在市面上常见的电脑设备（如Windows、Linux、MacOS）和手机设备（如iOS、Android）等平台上使用。
+NordVPN的服务器数量超过3,200台，覆盖65个国家和地区，使其可以轻松解锁国外的Netflix、Disney+、BBC iPlayer、Hulu等流媒体，且在观看高清视频的过程中流畅度较高。此外，其也可以在市面上常见的电脑设备（如Windows、Linux、MacOS）和手机设备（如iOS、Android）等平台上使用。
 
-一个个人付费账户可以支持无限设备，也就是说ExpressVPN的一个账号可以在所有设备上同时使用。另外，ExpressVPN还提供为期30天的退款保障，用户可以先免费试用30天，如果不满意可以随时申请退款。
+一个个人付费账户可以支持无限设备，也就是说NordVPN的一个账号可以在所有设备上同时使用。另外，NordVPN还提供为期30天的退款保障，用户可以先免费试用30天，如果不满意可以随时申请退款。
 
-总体来说，ExpressVPN是一款相当不错的VPN软件，其具有诸多功能和优势，为想要科学上网的用户提供了一个不错的选择。
+总体来说，NordVPN是一款相当不错的VPN软件，其具有诸多功能和优势，为想要科学上网的用户提供了一个不错的选择。
 
 ### 3.[PureVPN](https://overwallvpn.com/go/purevpn) – 免费使用31天，便宜超值翻墙
 
