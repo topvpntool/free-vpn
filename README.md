@@ -57,7 +57,13 @@
 
 由于我平时经常翻墙，对VPN软件要求比较高，平时基本都用的国外付费VPN，很少使用免费VPN，以下是经过我测试在中国稳定可用的VPN，并且提供30天免费试用的机会：
 
-### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 速度延迟表现最佳，且支持支付宝
+### 1. [Starfirewall](https://starfirewall.com) - 价格亲民、速度出色，性价比极高的机场梯子
+
+虽然不提供免费服务，但订阅价格非常便宜，主打高速稳定的科学上网体验。支持多个国家和地区的节点，适合日常翻墙、AI 工具使用及海外流媒体观看，是预算有限用户值得考虑的高性价比选择。
+
+---
+
+### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn) - 速度延迟表现最佳，且支持支付宝
 
 ![StrongVPN](https://overwallvpn.com/wp-content/uploads/2024/11/strongvpn-logo.png)
 
@@ -65,7 +71,7 @@
 
 ---
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/nordvpn) - 老牌翻墙VPN，使用体验最好
+### 3.[ExpressVPN](https://overwallvpn.com/go/nordvpn) - 老牌翻墙VPN，使用体验最好
 
 ![ExpressVPN](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-logo.png)
 
@@ -73,7 +79,7 @@
 
 ---
 
-### 3.[PureVPN](https://overwallvpn.com/go/purevpn) - 价格便宜，适合低预算
+### 4.[PureVPN](https://overwallvpn.com/go/purevpn) - 价格便宜，适合低预算
 
 ![PureVPN](https://overwallvpn.com/wp-content/uploads/2022/11/purevpn-logo-black.png)
 
@@ -120,7 +126,23 @@
 
 也就是购买之后，在30天内退款。当然个人❌**不建议这种不道德操作**，每个人都应该🚀**支持正版且好用的VPN软件**，这样🧱翻墙科学上网才能持续...
 
-### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) – 免费VPN首选，中国翻墙必备，免费使用30天
+### 1. [Starfirewall](https://starfirewall.com) - 价格实惠、线路灵活，值得关注的实力黑马
+
+Starfirewall 是一款走高性价比路线的机场服务，价格不贵，但该有的功能基本都考虑到了。相比那些动辄要求购买一年甚至两年套餐的传统 VPN，这种按需订阅的方式更加灵活，不需要一次投入太多钱。对于只是想稳定上网、不愿意折腾太多配置的用户来说，还是挺有吸引力的。
+
+![Starfirewall](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+我一直觉得，判断一个机场好不好用，不能光看它宣传的带宽有多大。很多时候，测速几百兆的节点，实际打开网页却慢得让人着急。真正影响体验的反而是线路质量，尤其是晚上网络拥堵的时候。像 Starfirewall 这种提供多个地区节点的服务，好处就是遇到某条线路不顺畅时，可以尝试切换其他地区，不至于完全没得选。
+
+技术方面也不用想得太复杂。现在的机场通常使用 VLESS、Shadowsocks 等代理协议，搭配 Clash、Shadowrocket 之类的客户端，导入订阅后就能使用。我比较喜欢的一点是可以设置自动分流，国内网站正常访问，需要连接海外网络的网站才走代理。平时开着也不用频繁切换，对经常在国内外网站之间来回操作的人来说，确实省事不少。
+
+还有一点是我觉得很多人容易忽略的：**节点的 IP 质量有时候比速度更重要。** 特别是现在经常要用 ChatGPT、Claude 这些工具，如果线路频繁更换出口 IP，可能会遇到额外验证，甚至无法正常登录。所以我通常更倾向于选择一条表现稳定的线路长期使用，而不是看到哪个节点延迟低就马上切过去。
+
+整体而言，Starfirewall 比较适合追求实用、不想花冤枉钱的用户。不过机场毕竟属于持续运营的网络服务，实际表现还是要看不同时段的线路情况。
+
+---
+
+### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn) – 免费VPN首选，中国翻墙必备，免费使用30天
 
 StrongVPN是一家成立于2009年的顶尖VPN服务提供商，已经为全球数百万用户提供了VPN服务。它自主研发的LightWay协议可以伪装用户流量，为中国用户提供稳定的翻墙服务。StrongVPN在全球部署了3000多台高速服务器，可以轻松地解锁Netflix、Google、Youtube、Facebook等网站，并提供业内最快的速度，可以流畅地观看高清视频。 此外，全球94个国家的160多个城市，让用户可以上网体验更佳。
 
@@ -230,7 +252,7 @@ StrongVPN 的容错能力很强，稍微调一下基本能用。
 
 ---
 
-### 2.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 免费使用30天，唯一无限设备翻墙VPN
+### 4.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 免费使用30天，唯一无限设备翻墙VPN
 
 ExpressVPN是一个相对新的VPN软件，但已成为许多人选择的免费VPN加速器之一。其主要的三个优势包括了Camouflage/NoBorders的使用、在隐私安全保护、解锁地域限制、兼容性和易用性方面处于行业领先水平，以及不限制设备数量。
 
@@ -244,7 +266,7 @@ ExpressVPN的服务器数量超过3,200台，覆盖65个国家和地区，使其
 
 总体来说，ExpressVPN是一款相当不错的VPN软件，其具有诸多功能和优势，为想要科学上网的用户提供了一个不错的选择。
 
-### 3.[PureVPN](https://overwallvpn.com/go/purevpn) – 免费使用31天，便宜超值翻墙
+### 5.[PureVPN](https://overwallvpn.com/go/purevpn) – 免费使用31天，便宜超值翻墙
 
 PureVPN在2006年成立于香港，在中国大陆及香港地区尤其受欢迎。由于PureVPN公司总部曾经位于中国香港，他们非常了解中国网民的需求，并针对性地提供了解锁地域限制的服务。
 
